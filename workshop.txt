@@ -1,5 +1,5 @@
 version=1
-title=Tetris Patches
+title=[B42]Sapph's Cooking - Inventory Tetris Patch
 description=
 tags=Build 42
 visibility=public

@@ -1,9 +1,0 @@
-name=Mixology Tetris Patch
-id=DelranMixologyTetrisPatch
-modversion=1
-author=Delran
-description=
-poster=poster.png
-icon=poster.png
-require=\INVENTORY_TETRIS,\Mixology
-versionMin=42.0.0
