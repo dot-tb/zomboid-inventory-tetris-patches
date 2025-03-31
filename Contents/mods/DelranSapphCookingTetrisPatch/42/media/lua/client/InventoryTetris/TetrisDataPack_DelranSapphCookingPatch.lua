@@ -226,6 +226,16 @@ local itemPack = {
         ["height"] = 2,
         ["width"] = 2,
     },
+    ["SapphCooking.BakingTray_Gingerbread_Man"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_Gingerbread_Wall"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
     ["SapphCooking.BakingTray_Croissant"] = {
         ["maxStackSize"] = 1,
         ["height"] = 2,
@@ -291,7 +301,12 @@ local itemPack = {
         ["height"] = 2,
         ["width"] = 2,
     },
-
+    ["SapphCooking.BakingTray_Eclair"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    --- Blender
     ["SapphCooking.Blender_Juice"] = {
         ["maxStackSize"] = 1,
         ["height"] = 2,
@@ -341,6 +356,12 @@ local itemPack = {
         ["maxStackSize"] = 1,
         ["height"] = 2,
         ["width"] = 1,
+    },
+    --- Cake
+    ["SapphCooking.TiramisuPan"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
     },
     ["SapphCooking.Cake_NianGao"] = {
         ["maxStackSize"] = 1,
@@ -437,7 +458,6 @@ local itemPack = {
         ["height"] = 2,
         ["width"] = 2,
     },
-
     --- Meat
     ["SapphCooking.TenderizedMeat"] = {
         ["maxStackSize"] = 1,
@@ -481,6 +501,38 @@ local itemPack = {
         ["maxStackSize"] = 1,
         ["height"] = 2,
         ["width"] = 1,
+    },
+
+    --- Buckets
+    ["SapphCooking.BucketofCandyPopcorn"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BucketofFriedBird"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BucketofPopcorn"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.Bucket_CheeseCurds"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.Bucket_Cheese"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.Bucket_CheeseBlue"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
     },
 }
 TetrisItemData.registerItemDefinitions(itemPack)

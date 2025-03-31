@@ -6,6 +6,8 @@ description=All items, most notably anything prepared inside of kitchen pans sho
 description=
 description=If you find any items that should be adjusted that I have forgotten, feel free to post them in the comments, I'll take care of them as quickly as I can !
 description=
+description=Most of the asset will be pixelated as it is of a low resolution, I may try to fix it latter.
+description=
 description=This should be save compatible but you may have to reorganize items that were stored before the adjustment.
 description=
 description=All credits goes to [url=https://steamcommunity.com/id/sapphn][b]Sapph[/b][/url] for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3409143790][b]Sapph's Cooking[/b][/url] and to [url=https://steamcommunity.com/id/sapphn][b]Notloc[/b][/url] for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3397561666&searchtext=inventory+tetris][b]Inventory Tetris[/b][/url].
