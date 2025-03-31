@@ -1,0 +1,9 @@
+name=Sapph's Cooking Tetris Patch
+id=DelranSapphCookingTetrisPatch
+modversion=1
+author=Delran
+description=
+require=\INVENTORY_TETRIS,\SapphCooking_B42
+poster=poster.png
+icon=poster.png
+versionMin=42.0.0
