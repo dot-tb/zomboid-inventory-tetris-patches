@@ -221,6 +221,77 @@ local itemPack = {
         ["height"] = 2,
         ["width"] = 2,
     },
+    ["SapphCooking.Pretzel_Tray"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_Croissant"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_Bagel"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_Hotdog"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_CremeBrulee"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_CaramelPudding"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_ChocolatePudding"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_Ladyfingers"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_Jerky"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_MacaronCookies1"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_MacaronCookies2"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_MacaronCookies3"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_MacaronCookies4"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BakingTray_PaodeQueijo"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+
     ["SapphCooking.Blender_Juice"] = {
         ["maxStackSize"] = 1,
         ["height"] = 2,
@@ -330,6 +401,86 @@ local itemPack = {
         ["maxStackSize"] = 1,
         ["height"] = 2,
         ["width"] = 2,
+    },
+    ["SapphCooking.Cake_Candle"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.CakeChocolate_Candle"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.CakeCarrot_Candle"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.CakeRedVelvet_Candle"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.CakeBlackForest_Candle"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.CakeStrawberry_Candle"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+    ["SapphCooking.CakeBirthday_Candle"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+
+    --- Meat
+    ["SapphCooking.TenderizedMeat"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 1,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BreadedTenderizedMeat"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 1,
+        ["width"] = 2,
+    },
+    ["SapphCooking.BeefWellington"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 1,
+        ["width"] = 2,
+    },
+    ["SapphCooking.FriedBirdMeat_Whole"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 2,
+    },
+
+    --- Broths
+    ["SapphCooking.ChickenBroth"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 1,
+    },
+    ["SapphCooking.BeefBroth"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 1,
+    },
+    ["SapphCooking.VegetableBroth"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 1,
+    },
+
+    ["SapphCooking.CoffeeBeensBag"] = {
+        ["maxStackSize"] = 1,
+        ["height"] = 2,
+        ["width"] = 1,
     },
 }
 TetrisItemData.registerItemDefinitions(itemPack)
